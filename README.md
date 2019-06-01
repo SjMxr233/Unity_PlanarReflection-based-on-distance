@@ -7,4 +7,8 @@ only Gaussian Blur
 
 add depth blur  
 
-![distance](https://github.com/mxrhyx233/Unity_PlanarReflection-based-on-distance/blob/master/Assets/distance%20blur.png)
+![distance](https://github.com/mxrhyx233/Unity_PlanarReflection-based-on-distance/blob/master/Assets/distance%20blur.png)  
+
+add fade  
+
+![fade](https://github.com/mxrhyx233/Unity_PlanarReflection-based-on-distance/blob/master/Assets/fade.png)
